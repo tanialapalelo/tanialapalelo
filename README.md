@@ -29,9 +29,11 @@ I'm a software engineer passionate about tech, education, and women empowerment.
 <!-- Others -->
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
+<!-- 
 ## 📈 GitHub Stats
 ![Tania's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanialapalelo&show_icons=true&theme=radical)
-
+ -->
+ 
 ## 🔗 Let's connect!
 [Website](https://tanialapalelo.my.id/) • [LinkedIn](https://linkedin.com/in/tanialapalelo) • [Medium](https://medium.com/@tanialapalelo) • [Instagram](https://instagram.com/tanialapalelo) • [YouTube](https://youtube.com/@tania.lapalelo)
 
