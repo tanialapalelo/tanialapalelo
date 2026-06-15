@@ -1,39 +1,39 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Tania%20Silvana%20Lapalelo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20Full-Stack%20%7C%20AI-Driven%20Product%20Engineering&descAlignY=55&descSize=18)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,50:2D4A6B,100:6FA8D8&height=220&section=header&text=Tania%20Silvana%20Lapalelo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20Full-Stack%20%7C%20AI-Driven%20Product%20Engineering&descAlignY=55&descSize=18)
 
 <a href="https://github.com/tanialapalelo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=670&lines=Frontend+Engineer+%40+Wings+Group+Indonesia;Next.js+%7C+NestJS+%7C+TypeScript+%7C+PostgreSQL;Building+Production-Grade+Full-Stack+Systems;AI-Powered+Product+Engineering+with+Gemini+API" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6FA8D8&center=true&vCenter=true&width=670&lines=Frontend+Engineer+%40+Wings+Group+Indonesia;Next.js+%7C+NestJS+%7C+TypeScript+%7C+PostgreSQL;Building+Production-Grade+Full-Stack+Systems;AI-Powered+Product+Engineering+with+Gemini+API" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![B.Sc Computer Science](https://img.shields.io/badge/B.Sc.-Computer%20Science-6D28D9?style=for-the-badge&logo=academia&logoColor=white)
-![University](https://img.shields.io/badge/University%20of%20Surabaya-Indonesia-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Jakarta-Indonesia-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
+![B.Sc Computer Science](https://img.shields.io/badge/B.Sc.-Computer%20Science-6FA8D8?style=for-the-badge&logo=academia&logoColor=white)
+![University](https://img.shields.io/badge/University%20of%20Surabaya-Indonesia-6FA8D8?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Jakarta-Indonesia-6FA8D8?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-calendar--web--ivory.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://calendar-web-ivory.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tanialapalelo-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanialapalelo)
-[![Email](https://img.shields.io/badge/Email-taniasilvanalapalelo%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taniasilvanalapalelo@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-tanialapalelo-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanialapalelo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-calendar--web--ivory.vercel.app-6FA8D8?style=for-the-badge&logo=vercel&logoColor=white)](https://calendar-web-ivory.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tanialapalelo-6FA8D8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanialapalelo)
+[![Email](https://img.shields.io/badge/Email-taniasilvanalapalelo%40gmail.com-6FA8D8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taniasilvanalapalelo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-tanialapalelo-6FA8D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanialapalelo)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tanialapalelo&style=flat-square&color=6D28D9&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/tanialapalelo?style=flat-square&color=7C3AED&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/tanialapalelo?style=flat-square&color=8B5CF6&label=STARS&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=tanialapalelo&style=flat-square&color=2D4A6B&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/tanialapalelo?style=flat-square&color=2D4A6B&label=FOLLOWERS&logo=github)
+![Stars](https://img.shields.io/github/stars/tanialapalelo?style=flat-square&color=2D4A6B&label=STARS&logo=github)
 
 </div>
 
 ---
 
-## 🟣 About Me
+##  About Me
 
 ```yaml
 name: Tania Silvana Lapalelo
-role: Frontend Engineer (Full-Stack Capable)
+role: Frontend Engineer (FullStack Capable)
 company: Wings Group Indonesia — Indonesia's largest FMCG conglomerate
 experience: 5+ years in production environments serving 5,000+ users
 focus:
@@ -54,7 +54,7 @@ Outside of enterprise work, I build **production-grade personal systems** - a fu
 
 ---
 
-## 🟣 Tech Stack
+##  Tech Stack
 
 ### Languages
 ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
@@ -70,7 +70,7 @@ Outside of enterprise work, I build **production-grade personal systems** - a fu
 
 ---
 
-## 🟣 AI / ML Expertise
+##  AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |:--|:--:|:--|
@@ -82,7 +82,7 @@ Outside of enterprise work, I build **production-grade personal systems** - a fu
 
 ---
 
-## 🟣 Featured Projects
+##  Featured Projects
 
 <details open>
 <summary><b>📅 Calendar Clone - Full-Stack Production Portfolio Project</b></summary>
@@ -132,7 +132,7 @@ An AI-driven gift recommendation platform combining a retro claw-machine UX with
 
 ---
 
-## 🟣 Experience
+##  Experience
 
 ### Frontend Engineer · Wings Group Indonesia
 **Jun 2023 – Present** · Jakarta, Indonesia
@@ -160,7 +160,7 @@ Built and maintained core HR infrastructure supporting a 20,000+ person workforc
 
 ---
 
-## 🟣 Achievements
+##  Achievements
 
 <div align="center">
 
@@ -174,58 +174,52 @@ Built and maintained core HR infrastructure supporting a 20,000+ person workforc
 
 ---
 
-## 🟣 Certifications & Programs
+##  Certifications & Programs
 
 **Google**
 <br/>
-![Bangkit](https://img.shields.io/badge/Bangkit%202021-Cloud%20Computing%20Track-6D28D9?style=flat-square&logo=google&logoColor=white)
+![Bangkit](https://img.shields.io/badge/Bangkit%202021-Cloud%20Computing%20Track-6FA8D8?style=flat-square&logo=google&logoColor=white)
 
 **Government / National Programs**
 <br/>
-![Kominfo](https://img.shields.io/badge/Kominfo-Cyber%20Security%20Graduate%20Academy-7C3AED?style=flat-square&logo=shield&logoColor=white)
+![Kominfo](https://img.shields.io/badge/Kominfo-Cyber%20Security%20Graduate%20Academy-6FA8D8?style=flat-square&logo=shield&logoColor=white)
 
 **Academic Exchange**
 <br/>
-![SIAS](https://img.shields.io/badge/SIAS%20University-China%20Exchange%20Program-8B5CF6?style=flat-square&logo=googlescholar&logoColor=white)
+![SIAS](https://img.shields.io/badge/SIAS%20University-China%20Exchange%20Program-6FA8D8?style=flat-square&logo=googlescholar&logoColor=white)
 
 **Industry / Applied AI**
 <br/>
-![Hack2Skill](https://img.shields.io/badge/Hack2Skill-GenAI%20APAC%202026-4F46E5?style=flat-square&logo=googlecloud&logoColor=white)
+![Hack2Skill](https://img.shields.io/badge/Hack2Skill-GenAI%20APAC%202026-6FA8D8?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
 
-## 🟣 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tanialapalelo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tanialapalelo&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tanialapalelo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=16222F&title_color=6FA8D8&icon_color=6FA8D8&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tanialapalelo&theme=tokyonight&hide_border=true&background=16222F&ring=6FA8D8&fire=6FA8D8&currStreakLabel=6FA8D8" />
 <br/>
-
-<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanialapalelo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
-
+<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanialapalelo&layout=compact&theme=tokyonight&hide_border=true&bg_color=16222F&title_color=6FA8D8&text_color=C9D1D9" />
 </div>
 
 ---
 
-## 🟣 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanialapalelo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanialapalelo&theme=tokyo-night&hide_border=true&bg_color=16222F&color=6FA8D8&line=6FA8D8&point=C9D1D9" />
 </div>
 
 ---
 
-## 🟣 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-taniasilvanalapalelo%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taniasilvanalapalelo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tanialapalelo-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanialapalelo)
-[![GitHub](https://img.shields.io/badge/GitHub-tanialapalelo-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanialapalelo)
+[![Gmail](https://img.shields.io/badge/Gmail-taniasilvanalapalelo%40gmail.com-6FA8D8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taniasilvanalapalelo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tanialapalelo-6FA8D8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanialapalelo)
+[![GitHub](https://img.shields.io/badge/GitHub-tanialapalelo-6FA8D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanialapalelo)
 
 </div>
 
@@ -235,6 +229,6 @@ Built and maintained core HR infrastructure supporting a 20,000+ person workforc
 
 *"Ship fast, test thoroughly, document everything - build software that scales with the people who depend on it."*
 
-![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,50:2D4A6B,100:6FA8D8&height=120&section=footer)
 
 </div>
