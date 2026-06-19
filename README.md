@@ -75,7 +75,6 @@ Outside of enterprise work, I build **production-grade personal systems** - a fu
 | Domain | Proficiency | Details |
 |:--|:--:|:--|
 | **Generative AI Integration** | ⭐⭐⭐⭐ | Built production AI features using the **Gemini API** to power conversational gift discovery in GiftClaw |
-| **GenAI Applied Programs** | ⭐⭐⭐⭐ | **Hack2Skill GenAI APAC 2026** - applied generative AI engineering track |
 | **Cloud-Native ML Foundations** | ⭐⭐⭐ | **Bangkit 2021 Cloud Computing Track** (Google, Tokopedia, Gojek, Traveloka) — cloud architecture for ML-driven products |
 | **AI-Augmented Developer Workflows** | ⭐⭐⭐⭐ | Designs and maintains AI-assisted "second brain" systems (Obsidian + LLM tooling) for structured engineering knowledge |
 | **Schema-Driven Code Generation** | ⭐⭐⭐⭐⭐ | Architected an automated CRUD code-generation engine from live database schemas (Master Generator v2) |
@@ -188,9 +187,6 @@ Built and maintained core HR infrastructure supporting a 20,000+ person workforc
 <br/>
 ![SIAS](https://img.shields.io/badge/SIAS%20University-China%20Exchange%20Program-6FA8D8?style=flat-square&logo=googlescholar&logoColor=white)
 
-**Industry / Applied AI**
-<br/>
-![Hack2Skill](https://img.shields.io/badge/Hack2Skill-GenAI%20APAC%202026-6FA8D8?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
 
